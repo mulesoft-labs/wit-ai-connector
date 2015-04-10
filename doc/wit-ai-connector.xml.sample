@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(wit-ai:greet) -->
+    <wit-ai:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(wit-ai:greet) -->
